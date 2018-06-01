@@ -5,3 +5,6 @@ HiDSDecode
 # Function: Decode the mutation from high-throughput sequencing data
 
 # Usage
+
+# first: run...
+# seconde: python...
